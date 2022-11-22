@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,b as t}from"./App.4c4331d1.js";const c={},a={class:"flex flex-col items-center gap-20 bg-base-100 py-20"},n=t("p",null,"TBD rules",-1),r=[n];function _(l,d){return s(),o("div",a,r)}const i=e(c,[["render",_]]);export{i as default};
