@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="_x30_" x="0" y="0"
+     style="enable-background:new 0 0 1024 1024" version="1.1" viewBox="0 0 1024 1024"><style>.st0,.st1,.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#2a18bf}.st1,.st2{fill:#6347f5}.st2{fill:#c7bcff}</style>
+    <path d="M512 0 68.6 256l147.8 85.33L512 170.67l295.6 170.66L955.41 256z" class="st0"/>
+    <path d="M216.4 341.33v341.34l147.8-85.34V426.67L512 341.33V170.67z" class="st1"/>
+    <path d="M216.4 682.67V341.33L68.6 256v512L512 1024V853.33z" class="st2"/>
+    <path d="M659.8 597.33 512 682.67l-147.8-85.34-147.8 85.34L512 853.33l295.6-170.66z" class="st0"/>
+    <path d="M512 170.67v170.66l147.8 85.34v170.66l147.8 85.34V341.33z" class="st2"/>
+    <path d="M807.6 341.33v341.34L512 853.33V1024l443.41-256V256z" class="st1"/>
+</svg>
